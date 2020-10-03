@@ -1,6 +1,6 @@
-# Mongo - Express - Express React Views Template
 
-## USING THIS TEMPLATE:
+
+## myLouvre:
 
 - Make sure to run npm install
 
